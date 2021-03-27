@@ -15,4 +15,4 @@ Now add the speed multiplier strings of your animation to the script's parameter
 
 ### Support or Contact
 
-Having trouble with the script? Open a new [issue ticket](https://github.com/SnoutBug/UnityFootSlidingRemover/issues/new) or [contact me](snoutbug@gmail.com) via E-Mail and I will help you out.
+Having trouble with the script? Open a new [issue ticket](https://github.com/SnoutBug/UnityFootSlidingRemover/issues/new) or [contact me](mailto:snoutbug@gmail.com) via E-Mail and I will help you out.
